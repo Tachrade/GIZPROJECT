@@ -1,0 +1,64 @@
+.Slide1{
+    background-image: url(../Components/images/Tac.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+
+}
+
+.Slide2{
+    background-image: url(../Components/images/dan.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 300px;
+    background-size: cover;
+}
+
+/* @media screen and (max-width: 800px) {
+    .Slide2{background-image: url(../Carousel/images/dan.png);
+          width: 790px;
+    }  
+} */
+
+.Slide3{
+    background-image: url(../Components/images/ladiez.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.Slide4{
+    background-image: url(../Components/images/Ay.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.Slide5{
+    background-image: url(../Components/images/pix.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.Slide6{
+    background-image: url(../Components/images/Snap.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.Slide7{
+    background-image: url(../Components/images/DevsK.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.Slide8{
+    background-image: url(../Components/images/grp.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
